@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "٨/٠٢-٢٠٢٤"; ObjectID = "2Zj-4b-pwG"; */
+"2Zj-4b-pwG.text" = "٨/٠٢-٢٠٢٤";
+
+/* Class = "UILabel"; text = "تفاصيل المهمة"; ObjectID = "8sw-YL-xbk"; */
+"8sw-YL-xbk.text" = "تفاصيل المهمة";
+
+/* Class = "UIButton"; configuration.title = "اضافة"; ObjectID = "BCm-1O-boe"; */
+"BCm-1O-boe.configuration.title" = "اضافة";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BCm-1O-boe"; */
+"BCm-1O-boe.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "المهام"; ObjectID = "CqA-aE-Q2l"; */
+"CqA-aE-Q2l.title" = "المهام";
+
+/* Class = "UILabel"; text = "تمارين انهاردة"; ObjectID = "V5M-5V-nTJ"; */
+"V5M-5V-nTJ.text" = "تمارين انهاردة";
+
+/* Class = "UITabBarItem"; title = "اضافة"; ObjectID = "VU3-KZ-Svp"; */
+"VU3-KZ-Svp.title" = "اضافة";
+
+/* Class = "UITabBarItem"; title = "مهامي"; ObjectID = "Xye-gs-fwT"; */
+"Xye-gs-fwT.title" = "مهامي";
+
+/* Class = "UILabel"; text = "lable"; ObjectID = "boT-PA-FIW"; */
+"boT-PA-FIW.text" = "lable";
+
+/* Class = "UIButton"; configuration.title = "اضافة صورة"; ObjectID = "h7T-ig-KJ6"; */
+"h7T-ig-KJ6.configuration.title" = "اضافة صورة";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "h7T-ig-KJ6"; */
+"h7T-ig-KJ6.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "تعديل"; ObjectID = "p4o-Mf-M7b"; */
+"p4o-Mf-M7b.configuration.title" = "تعديل";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "p4o-Mf-M7b"; */
+"p4o-Mf-M7b.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "التمارين اليومية"; ObjectID = "sRr-zl-nIT"; */
+"sRr-zl-nIT.text" = "التمارين اليومية";
+
+/* Class = "UIBarButtonItem"; title = "عودة"; ObjectID = "u6s-qR-tgY"; */
+"u6s-qR-tgY.title" = "عودة";
+
+/* Class = "UIBarButtonItem"; title = "عودة"; ObjectID = "v5s-Tp-jul"; */
+"v5s-Tp-jul.title" = "عودة";
+
+/* Class = "UINavigationItem"; title = "مهمة جديدة"; ObjectID = "wya-1b-Y0o"; */
+"wya-1b-Y0o.title" = "مهمة جديدة";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xH3-Ys-bfq"; */
+"xH3-Ys-bfq.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "عنوان المهمة"; ObjectID = "yzO-Sk-m0x"; */
+"yzO-Sk-m0x.text" = "عنوان المهمة";
